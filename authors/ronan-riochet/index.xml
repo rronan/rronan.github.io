@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ronan Riochet</title>
-    <link>https://rronan.github.io/authors/ronan-riochet/</link>
-      <atom:link href="https://rronan.github.io/authors/ronan-riochet/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ronan-riochet/</link>
+      <atom:link href="/authors/ronan-riochet/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Riochet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ronan Riochet</title>
-      <link>https://rronan.github.io/authors/ronan-riochet/</link>
+      <link>/authors/ronan-riochet/</link>
     </image>
     
     <item>
       <title>IntPhys: A Framework and Benchmark for Visual Intuitive Physics Reasoning</title>
-      <link>https://rronan.github.io/publication/intphys/</link>
+      <link>/publication/intphys/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>https://rronan.github.io/publication/intphys/</guid>
+      <guid>/publication/intphys/</guid>
       <description></description>
     </item>
     
