@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathieu Bernard | Ronan Riochet</title>
+    <link>/authors/mathieu-bernard/</link>
+      <atom:link href="/authors/mathieu-bernard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathieu Bernard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mathieu Bernard</title>
+      <link>/authors/mathieu-bernard/</link>
+    </image>
+    
+    <item>
+      <title>IntPhys: A Framework and Benchmark for Visual Intuitive Physics Reasoning</title>
+      <link>/publication/intphys/</link>
+      <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
+      <guid>/publication/intphys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
