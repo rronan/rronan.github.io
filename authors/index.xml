@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ronan Riochet</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rronan.github.io/authors/</link>
+      <atom:link href="https://rronan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://rronan.github.io/authors/</link>
     </image>
     
     <item>
       <title>Adam Lerer</title>
-      <link>/authors/adam-lerer/</link>
+      <link>https://rronan.github.io/authors/adam-lerer/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/adam-lerer/</guid>
+      <guid>https://rronan.github.io/authors/adam-lerer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emmanuel Dupoux</title>
-      <link>/authors/emmanuel-dupoux/</link>
+      <link>https://rronan.github.io/authors/emmanuel-dupoux/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/emmanuel-dupoux/</guid>
+      <guid>https://rronan.github.io/authors/emmanuel-dupoux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mario Ynocente Castro</title>
-      <link>/authors/mario-ynocente-castro/</link>
+      <link>https://rronan.github.io/authors/mario-ynocente-castro/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/mario-ynocente-castro/</guid>
+      <guid>https://rronan.github.io/authors/mario-ynocente-castro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathieu Bernard</title>
-      <link>/authors/mathieu-bernard/</link>
+      <link>https://rronan.github.io/authors/mathieu-bernard/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/mathieu-bernard/</guid>
+      <guid>https://rronan.github.io/authors/mathieu-bernard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rob Fergus</title>
-      <link>/authors/rob-fergus/</link>
+      <link>https://rronan.github.io/authors/rob-fergus/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/rob-fergus/</guid>
+      <guid>https://rronan.github.io/authors/rob-fergus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ronan Riochet</title>
-      <link>/authors/ronan-riochet/</link>
+      <link>https://rronan.github.io/authors/ronan-riochet/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/ronan-riochet/</guid>
+      <guid>https://rronan.github.io/authors/ronan-riochet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Véronique Izard</title>
-      <link>/authors/veronique-izard/</link>
+      <link>https://rronan.github.io/authors/veronique-izard/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/veronique-izard/</guid>
+      <guid>https://rronan.github.io/authors/veronique-izard/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://rronan.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://rronan.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in Computer Vision and Cognitive Science at Ecole Normale Supérieur de Paris
 and INRIA. I am working on unsupervised learning of intuitive physics, under the supervision
 of Emmanuel Dupoux, Ivan Laptev and Josef Sivic.&lt;/p&gt;
