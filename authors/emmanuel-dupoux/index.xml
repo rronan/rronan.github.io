@@ -5,12 +5,20 @@
     <link>/authors/emmanuel-dupoux/</link>
       <atom:link href="/authors/emmanuel-dupoux/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmanuel Dupoux</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 20:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Emmanuel Dupoux</title>
       <link>/authors/emmanuel-dupoux/</link>
     </image>
+    
+    <item>
+      <title>Occlusion resistant learning of intuitive physics from videos</title>
+      <link>/publication/event_decoding/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/publication/event_decoding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IntPhys: A Framework and Benchmark for Visual Intuitive Physics Reasoning</title>

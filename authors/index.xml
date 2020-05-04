@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 20:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Adam Lerer</title>
-      <link>/authors/adam-lerer/</link>
-      <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/adam-lerer/</guid>
+      <title>Emmanuel Dupoux</title>
+      <link>/authors/emmanuel-dupoux/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/emmanuel-dupoux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Emmanuel Dupoux</title>
-      <link>/authors/emmanuel-dupoux/</link>
+      <title>Ivan Laptev</title>
+      <link>/authors/ivan-laptev/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/ivan-laptev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josef Sivic</title>
+      <link>/authors/josef-sivic/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/josef-sivic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronan Riochet</title>
+      <link>/authors/ronan-riochet/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/ronan-riochet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Lerer</title>
+      <link>/authors/adam-lerer/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/emmanuel-dupoux/</guid>
+      <guid>/authors/adam-lerer/</guid>
       <description></description>
     </item>
     
@@ -49,14 +73,6 @@
       <link>/authors/rob-fergus/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
       <guid>/authors/rob-fergus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ronan Riochet</title>
-      <link>/authors/ronan-riochet/</link>
-      <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/ronan-riochet/</guid>
       <description></description>
     </item>
     
