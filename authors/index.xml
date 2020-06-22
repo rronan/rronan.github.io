@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Mar 2018 20:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 20:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Adam Lerer</title>
-      <link>/authors/adam-lerer/</link>
-      <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/adam-lerer/</guid>
+      <title>Emmanuel Dupoux</title>
+      <link>/authors/emmanuel-dupoux/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/emmanuel-dupoux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Emmanuel Dupoux</title>
-      <link>/authors/emmanuel-dupoux/</link>
+      <title>Ivan Laptev</title>
+      <link>/authors/ivan-laptev/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/ivan-laptev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josef Sivic</title>
+      <link>/authors/josef-sivic/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/josef-sivic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronan Riochet</title>
+      <link>/authors/ronan-riochet/</link>
+      <pubDate>Thu, 30 Apr 2020 20:00:00 +0100</pubDate>
+      <guid>/authors/ronan-riochet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Lerer</title>
+      <link>/authors/adam-lerer/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/emmanuel-dupoux/</guid>
+      <guid>/authors/adam-lerer/</guid>
       <description></description>
     </item>
     
@@ -53,14 +77,6 @@
     </item>
     
     <item>
-      <title>Ronan Riochet</title>
-      <link>/authors/ronan-riochet/</link>
-      <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
-      <guid>/authors/ronan-riochet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Véronique Izard</title>
       <link>/authors/veronique-izard/</link>
       <pubDate>Tue, 20 Mar 2018 20:00:00 +0100</pubDate>
@@ -73,9 +89,13 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student in Computer Vision and Cognitive Science at Ecole Normale Supérieur de Paris
+      <description>&lt;p&gt;I am a PhD student in Computer Vision and Cognitive Science at Ecole Normale Supérieure de Paris
 and INRIA. I am working on unsupervised learning of intuitive physics, under the supervision
 of Emmanuel Dupoux, Ivan Laptev and Josef Sivic.&lt;/p&gt;
+&lt;p&gt;In 2017, I co-founded 
+&lt;a href=&#34;https://www.milvue.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milvue&lt;/a&gt;, where we develop algorithms for
+automated medical diagnosis from x-ray images.&lt;/p&gt;
+&lt;p&gt;Contact me at: ronan [dot] riochet [at] polytechnique [dot] edu&lt;/p&gt;
 </description>
     </item>
     
