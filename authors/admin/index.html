@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170362805-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-170362805-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -214,8 +252,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu194f1fccf54c9db0f26e4dfcc713f8c1_16522_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu194f1fccf54c9db0f26e4dfcc713f8c1_16522_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/authors/admin/">
 
@@ -457,14 +495,8 @@
 
         
         <h3>
-          <a href="https://www.di.ens.fr/willow/" target="_blank" rel="noopener">
-          <span>INRIA Willow</span>
-          </a>
-        </h3>
-        
-        <h3>
           <a href="https://coml.lscp.ens.fr/" target="_blank" rel="noopener">
-          <span>ENS Paris - CoML</span>
+          <span>ENS Paris - INRIA Willow - INRIA CoML</span>
           </a>
         </h3>
         
@@ -484,25 +516,8 @@
           
         
         <li>
-          <a href="https://github.com/rronan" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/in/ronan-riochet-846625a5" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
+          <a href="/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
         
@@ -533,8 +548,8 @@
           
         
         <li>
-          <a href="https://lichess.org/@/ronanronan" target="_blank" rel="noopener">
-            <i class="fas fa-chess-pawn big-icon"></i>
+          <a href="https://github.com/rronan" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
           </a>
         </li>
         
@@ -547,14 +562,26 @@
     
     
 
-    <p>I am a PhD student in Computer Vision and Cognitive Science at Ecole Normale Supérieure de Paris
+    <p>I am a PhD student in Computer Vision and Cognitive Science at Ecole Normale Supérieur de Paris
 and INRIA. I am working on unsupervised learning of intuitive physics, under the supervision
 of Emmanuel Dupoux, Ivan Laptev and Josef Sivic.</p>
-<p>Contact me at: ronan [dot] riochet [at] polytechnique [dot] edu</p>
 
 
     <div class="row">
 
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Computer Vision</li>
+          
+          <li>Computational Cognition</li>
+          
+          <li>Artificial Intelligence</li>
+          
+        </ul>
+      </div>
       
 
       
@@ -566,7 +593,7 @@ of Emmanuel Dupoux, Ivan Laptev and Josef Sivic.</p>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">PhD Candidate, 2017</p>
-              <p class="institution">ENS Paris, INRIA Willow &amp; CoML</p>
+              <p class="institution">ENS Paris, INRIA Willow, INRIA CoML</p>
             </div>
           </li>
           
